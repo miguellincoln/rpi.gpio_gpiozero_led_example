@@ -14,7 +14,7 @@ sudo apt install python3-gpiozero
 
 Click the image below to watch the video tutorial
 
-TBD
+<img src="https://www.easyprogramming.net/img/turning_on_led.jpg" />
 
 ## URL
 
