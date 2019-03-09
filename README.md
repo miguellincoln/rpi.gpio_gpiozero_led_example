@@ -14,8 +14,8 @@ sudo apt install python3-gpiozero
 
 Click the image below to watch the video tutorial
 
-<img src="https://www.easyprogramming.net/img/turning_on_led.jpg" />
+<a href="https://www.youtube.com/watch?v=AmyyrTyUUsM"><img src="https://www.easyprogramming.net/img/turning_on_led.jpg" /></a>
 
 ## URL
 
-Check out the tutorial at TBD
+Check out the tutorial at https://www.easyprogramming.net/raspberrypi/gpiozero_rpigpio_led.php
