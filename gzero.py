@@ -12,5 +12,5 @@ while True:
         red.on()
         sleep(1)
         red.off()
-        sleep(1)
+        sleep(100)
 		
